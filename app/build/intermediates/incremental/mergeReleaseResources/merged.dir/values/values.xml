@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="color_181d1f">#181d1f</color>
+    <color name="color_22292c">#22292c</color>
+    <color name="color_298409">#298409</color>
+    <color name="color_2e2e2e">#2e2e2e</color>
+    <color name="color_353535">#353535</color>
+    <color name="color_3cac17">#3cac17</color>
+    <color name="color_404040">#404040</color>
+    <color name="color_45c01a">#45c01a</color>
+    <color name="color_4d4d4d">#4d4d4d</color>
+    <color name="color_5c5c5c">#5c5c5c</color>
+    <color name="color_727272">#727272</color>
+    <color name="color_888888">#888888</color>
+    <color name="color_8d8d8d">#8d8d8d</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_aaaaaa">#aaaaaa</color>
+    <color name="color_b1b1b1">#b1b1b1</color>
+    <color name="color_bcbcbc">#bcbcbc</color>
+    <color name="color_bfbfbf">#bfbfbf</color>
+    <color name="color_c4c4c4">#c4c4c4</color>
+    <color name="color_cbcbcb">#cbcbcb</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_d4d4d4">#d4d4d4</color>
+    <color name="color_d9d9d9">#d9d9d9</color>
+    <color name="color_dddddd">#dddddd</color>
+    <color name="color_e2e2e2">#e2e2e2</color>
+    <color name="color_ebebeb">#ebebeb</color>
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_fbfbfb">#fbfbfb</color>
+    <color name="color_fdfdfd">#fdfdfd</color>
+    <color name="color_fefefe">#fefefe</color>
+    <color name="color_transparent_88000000">#88000000</color>
+    <color name="color_transparent_aa4a4a4a">#aa4a4a4a</color>
+    <color name="red">#ff0000</color>
+    <color name="snow">#fffafa</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">微信</string>
+    <string name="text_NetProgressDialogMsg">加载中……</string>
+    <string name="text_NetRequest_dataEmpty">数据为空!</string>
+    <string name="text_NetRequest_dataError">网络异常!</string>
+    <string name="text_addressbook_groupChat">群聊</string>
+    <string name="text_addressbook_mark">标签</string>
+    <string name="text_addressbook_newFriend">新的朋友</string>
+    <string name="text_addressbook_publicNumber">公众号</string>
+    <string name="text_chat_fingerSliding_cancelingSend">手指上滑，取消发送</string>
+    <string name="text_chat_loosenTheEnd">松开\u0020\u0020\u0020\u0020结束</string>
+    <string name="text_chat_pressToTalk">按住\u0020\u0020\u0020\u0020说话</string>
+    <string name="text_chat_releaseFinger_cancelingSend">松开手指，取消发送</string>
+    <string name="text_find_driftBottle">漂流瓶</string>
+    <string name="text_find_friends">朋友圈</string>
+    <string name="text_find_game">游戏</string>
+    <string name="text_find_nearbyPeople">附近的人</string>
+    <string name="text_find_shake">摇一摇</string>
+    <string name="text_find_shopping">购物</string>
+    <string name="text_find_sweep">扫一扫</string>
+    <string name="text_hint_login_pwd">6~20位字母、数字、符号</string>
+    <string name="text_hint_login_userName">手机号/邮箱/昵称</string>
+    <string name="text_hint_regist_nickName">请输入昵称</string>
+    <string name="text_hint_regist_pwd">6~20位字母、数字、符号</string>
+    <string name="text_hint_regist_rpwd">重复密码</string>
+    <string name="text_hint_regist_userName">请输入用户名</string>
+    <string name="text_login_btn">登\u0020\u0020录</string>
+    <string name="text_login_pwd">密\u0020\u0020\u0020\u0020码:</string>
+    <string name="text_login_userName">用户名:</string>
+    <string name="text_me_collect">收藏</string>
+    <string name="text_me_photo">相册</string>
+    <string name="text_me_set">设置</string>
+    <string name="text_me_wallet">钱包</string>
+    <string name="text_menu_account_manager">账号管理</string>
+    <string name="text_menu_chatInfo">聊天信息</string>
+    <string name="text_menu_finish">退出</string>
+    <string name="text_menu_more">更多</string>
+    <string name="text_menu_night">夜间模式</string>
+    <string name="text_menu_night_close">日间模式</string>
+    <string name="text_menu_officialweibo">官方微博</string>
+    <string name="text_menu_regist_title">注册</string>
+    <string name="text_menu_settings">设置</string>
+    <string name="text_menu_userDetailedInfo_addTodesktop">添加到桌面</string>
+    <string name="text_menu_userDetailedInfo_blacklist">加入黑名单</string>
+    <string name="text_menu_userDetailedInfo_delete">删除</string>
+    <string name="text_menu_userDetailedInfo_forward">发送该名片</string>
+    <string name="text_menu_userDetailedInfo_jurisdiction">设置朋友圈权限</string>
+    <string name="text_menu_userDetailedInfo_pencil">设置备注及标签</string>
+    <string name="text_menu_userDetailedInfo_stars">标为星标朋友</string>
+    <string name="text_menu_userDetailedInfo_title">详细资料</string>
+    <string name="text_menu_weixin_addFriend">添加朋友</string>
+    <string name="text_menu_weixin_feedback">意见反馈</string>
+    <string name="text_menu_weixin_groupChat">发起群聊</string>
+    <string name="text_menu_weixin_search">搜索</string>
+    <string name="text_menu_weixin_sweep">扫一扫</string>
+    <string name="text_regist_btn">注\u0020\u0020册</string>
+    <string name="text_regist_confirmPwd">确认密码:</string>
+    <string name="text_regist_nickName">昵\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020称:</string>
+    <string name="text_regist_pwd">密\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020码:</string>
+    <string name="text_regist_userName">登\u0020\u0020录\u0020\u0020名:</string>
+    <string name="text_tabbar_addressbook">通讯录</string>
+    <string name="text_tabbar_find">发现</string>
+    <string name="text_tabbar_me">我</string>
+    <string name="text_tabbar_weixin">微信</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CustomActionBarTheme" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/cgt_actionBar</item><!-- actionBar样式 -->
+        <!-- <item name="android:actionDropDownStyle">@style/cgt_actionDropDown</item> -->
+        <item name="android:actionBarItemBackground">@drawable/cgt_selector_actionbar_actionbaritem_bg</item> <!-- actionBar背景点击效果 -->
+        <item name="android:itemBackground">@drawable/cgt_selector_actionbar_overflowitem_bg</item><!-- Overflow的item背景点击效果 -->
+        <item name="android:homeAsUpIndicator">@drawable/cgt_selector_actionbar_homeasupindicator_bg</item><!-- 返回箭头 -->
+        <item name="android:windowContentOverlay">@android:drawable/divider_horizontal_dark</item>
+        <item name="android:actionBarDivider">@drawable/cgt_menu_delete</item>
+        
+        
+        <!-- Overflow的item之间的分隔线 -->
+        <!-- <item name="android:divider">@android:drawable/divider_horizontal_dark</item>
+        <item name="android:dividerHeight">15dip</item> -->
+        
+        <!-- <item name="android:popupMenuStyle">@style/MyPopupMenu</item> --><!-- Overflow背景色 -->
+        <!-- <item name="android:dropDownListViewStyle">@style/MyDropDownListView</item> --><!-- Overflow的item背景点击移动后效果 -->
+        <!-- <item name="android:actionBarTabStyle">@style/MyActionBarTabStyle</item> -->  
+        <!-- <item name="android:actionDropDownStyle">@style/MyDropDownNav</item> -->  
+        <!-- <item name="android:listChoiceIndicatorMultiple">@drawable/ad_btn_check_holo_light</item> -->  
+        <!-- <item name="android:listChoiceIndicatorSingle">@drawable/ad_btn_radio_holo_light</item> -->  
+        <!--<item name="android:actionOverflowButtonStyle">@style/MyOverflowButton</item>-->
+    </style>
+    <style name="MyPopupMenu" parent="@android:style/Widget.ListPopupWindow">
+        <item name="android:popupBackground">@color/color_22292c</item>
+        <item name="android:dropDownHorizontalOffset">-10dip</item><!-- 没效果  -->
+    </style>
+    <style name="cgt_actionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@color/color_22292c</item><!-- actionBar背景 -->
+    </style>
+    <style name="cgt_actionDropDown" parent="@android:style/Widget.Holo.DropDownItem">
+        <item name="android:background">@color/color_22292c</item>
+    </style>
+    <style name="cgt_btn">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">8dip</item>
+        <item name="android:paddingLeft">20dip</item>
+        <item name="android:paddingRight">20dip</item>
+        <item name="android:background">@drawable/cgt_selector_btn_bg</item>
+        <item name="android:textColor">@color/cgt_selector_tabbar_textcolor</item>
+    </style>
+    <style name="cgt_dialog" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">false</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@color/transparent</item><!--背景透明-->
+        <!--<item name="android:backgroundDimEnabled">false</item>模糊-->
+    </style>
+    <style name="cgt_editText">
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingTop">5dip</item>
+        <item name="android:paddingBottom">5dip</item>
+        <item name="android:paddingLeft">5dip</item>
+        <item name="android:paddingRight">5dip</item>
+        <item name="android:background">@drawable/cgt_selector_edit_bg</item>
+        <item name="android:textColor">@color/cgt_selector_tabbar_textcolor</item>
+    </style>
+    <style name="cgt_tabbar">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingTop">4dip</item>
+        <item name="android:paddingBottom">2dip</item>
+        <item name="android:background">@drawable/cgt_selector_tabbar_item_bg</item>
+        <item name="android:textColor">@color/cgt_selector_tabbar_textcolor</item>
+        <item name="android:button">@null</item>
+    </style>
+</resources>

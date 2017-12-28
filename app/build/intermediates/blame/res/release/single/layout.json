@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_activity_main.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_addressbook_middle_alert_dialog.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_addressbook_middle_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_transient_notification.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_transient_notification.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_activity_splash.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_activity_splash.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_roster_item.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_roster_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_fragment_addressbook.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_fragment_addressbook.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_activity_chat.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_activity_chat.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_chat_dialogbox_otherparty.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_chat_dialogbox_otherparty.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_fragment_base.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_fragment_base.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_chat_dialogbox_me.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_chat_dialogbox_me.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_activity_regist.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_activity_regist.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_chat_emoji_item.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_chat_emoji_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_activity_userdetailedinfo.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_activity_userdetailedinfo.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_loading.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_loading.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_chat_msg_text_left.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_chat_msg_text_left.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_fragment_find.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_fragment_find.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_fragment_me.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_fragment_me.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_activity_login.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_activity_login.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_fragment_weixin.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_fragment_weixin.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_addressbook_group_item.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_addressbook_group_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_addressbook_item.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_addressbook_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_addressbook_item_alert_dialog.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_addressbook_item_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_layout_chat_msg_text_right.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_layout_chat_msg_text_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\layout\\cgt_activity_galleryimage.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\layout\\cgt_activity_galleryimage.xml"
+    }
+]

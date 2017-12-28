@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_emoji_del_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_emoji_del_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_btn_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_tabbar_item_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_tabbar_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_loading_progress_draw.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_loading_progress_draw.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_input_speech_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_input_speech_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_userdetailedinfo_videochat_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_userdetailedinfo_videochat_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_tabbar_weixin_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_tabbar_weixin_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_list_item_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_list_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_dialogbox_me_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_dialogbox_me_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_input_send_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_input_send_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_shape_addressbook_middle_alert_dialog_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_shape_addressbook_middle_alert_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_shape_toast_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_shape_toast_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_edit_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_edit_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_tabbar_addressbook_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_tabbar_addressbook_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_tabbar_me_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_tabbar_me_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_input_plus_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_input_plus_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_actionbar_actionbaritem_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_actionbar_actionbaritem_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_input_presstotalk_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_input_presstotalk_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_input_smilingface_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_input_smilingface_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_actionbar_overflowitem_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_actionbar_overflowitem_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_shape_chat_date_transparent_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_shape_chat_date_transparent_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_radiobtn_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_radiobtn_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_dialogbox_otherparty_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_dialogbox_otherparty_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_input_inputbox_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_input_inputbox_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_actionbar_homeasupindicator_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_actionbar_homeasupindicator_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_userdetailedinfo_sendmsg_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_userdetailedinfo_sendmsg_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_find_item_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_find_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_emoji_item_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_emoji_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_qr_code_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_qr_code_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_tabbar_find_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_tabbar_find_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cgt_selector_chat_input_keyboard_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\drawable\\cgt_selector_chat_input_keyboard_bg.xml"
+    }
+]

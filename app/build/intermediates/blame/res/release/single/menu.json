@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\menu\\cgt_menu_weixin.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\menu\\cgt_menu_weixin.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\menu\\cgt_menu_chat.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\menu\\cgt_menu_chat.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\menu\\cgt_menu_userdetailedinfo.xml",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\menu\\cgt_menu_userdetailedinfo.xml"
+    }
+]

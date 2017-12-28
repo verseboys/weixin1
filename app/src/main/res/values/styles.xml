@@ -1,0 +1,131 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+    <style name="CustomActionBarTheme" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/cgt_actionBar</item><!-- actionBar样式 -->
+        <!-- <item name="android:actionDropDownStyle">@style/cgt_actionDropDown</item> -->
+        <item name="android:actionBarItemBackground">@drawable/cgt_selector_actionbar_actionbaritem_bg</item> <!-- actionBar背景点击效果 -->
+        <item name="android:itemBackground">@drawable/cgt_selector_actionbar_overflowitem_bg</item><!-- Overflow的item背景点击效果 -->
+        <item name="android:homeAsUpIndicator">@drawable/cgt_selector_actionbar_homeasupindicator_bg</item><!-- 返回箭头 -->
+        <item name="android:windowContentOverlay">@android:drawable/divider_horizontal_dark</item>
+        <item name="android:actionBarDivider">@drawable/cgt_menu_delete</item>
+        
+        
+        <!-- Overflow的item之间的分隔线 -->
+        <!-- <item name="android:divider">@android:drawable/divider_horizontal_dark</item>
+        <item name="android:dividerHeight">15dip</item> -->
+        
+        <!-- <item name="android:popupMenuStyle">@style/MyPopupMenu</item> --><!-- Overflow背景色 -->
+        <!-- <item name="android:dropDownListViewStyle">@style/MyDropDownListView</item> --><!-- Overflow的item背景点击移动后效果 -->
+        <!-- <item name="android:actionBarTabStyle">@style/MyActionBarTabStyle</item> -->  
+        <!-- <item name="android:actionDropDownStyle">@style/MyDropDownNav</item> -->  
+        <!-- <item name="android:listChoiceIndicatorMultiple">@drawable/ad_btn_check_holo_light</item> -->  
+        <!-- <item name="android:listChoiceIndicatorSingle">@drawable/ad_btn_radio_holo_light</item> -->  
+        <!--<item name="android:actionOverflowButtonStyle">@style/MyOverflowButton</item>-->
+    </style>
+    
+    <style name="cgt_actionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@color/color_22292c</item><!-- actionBar背景 -->
+    </style>
+    
+    <style name="cgt_actionDropDown" parent="@android:style/Widget.Holo.DropDownItem">
+        <item name="android:background">@color/color_22292c</item>
+    </style>
+    
+    <!-- style the overflow menu -->  
+    <style name="MyPopupMenu" parent="@android:style/Widget.ListPopupWindow">
+        <item name="android:popupBackground">@color/color_22292c</item>
+        <item name="android:dropDownHorizontalOffset">-10dip</item><!-- 没效果  -->
+    </style>
+      
+    <!-- style the items within the overflow menu -->  
+    <!-- <style name="MyDropDownListView" parent="@android:style/Widget.Holo.ListView.DropDown">  
+        <item name="android:listSelector">@drawable/cgt_selector_actionbar_overflowitem_bg</item>  
+    </style> -->
+  
+    <!-- style for the tabs -->  
+    <!-- <style name="MyActionBarTabStyle" parent="android:style/Widget.Holo.Light.ActionBarView_TabView">  
+        <item name="android:background">@drawable/actionbar_tab_bg</item>  
+        <item name="android:paddingLeft">32dp</item>  
+        <item name="android:paddingRight">32dp</item>  
+    </style> -->  
+      
+    <!-- style the list navigation -->  
+    <!-- <style name="MyDropDownNav" parent="android:style/Widget.Holo.Light.Spinner.DropDown.ActionBar">  
+        <item name="android:background">@drawable/ad_spinner_background_holo_light</item>  
+        <item name="android:popupBackground">@drawable/ad_menu_dropdown_panel_holo_light</item>  
+        <item name="android:dropDownSelector">@drawable/ad_selectable_background</item>  
+    </style>  --> 
+  
+    <!-- the following can be used to style the overflow menu button  
+         only do this if you have an *extremely* good reason to!! -->  
+    <!--<style name="MyOverflowButton" parent="@android:style/Widget.Holo.ActionButton.Overflow">  
+        <item name="android:src">@android:drawable/ic_menu_view</item>  
+        <item name="android:background">@drawable/action_button_background</item>  
+    </style>-->
+    
+    <!-- http://blog.csdn.net/sumakira/article/details/7069179 -->
+    
+    <style name="cgt_tabbar">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingTop">4dip</item>
+        <item name="android:paddingBottom">2dip</item>
+        <item name="android:background">@drawable/cgt_selector_tabbar_item_bg</item>
+        <item name="android:textColor">@color/cgt_selector_tabbar_textcolor</item>
+        <item name="android:button">@null</item>
+    </style>
+    
+    <style name="cgt_btn">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingTop">8dip</item>
+        <item name="android:paddingBottom">8dip</item>
+        <item name="android:paddingLeft">20dip</item>
+        <item name="android:paddingRight">20dip</item>
+        <item name="android:background">@drawable/cgt_selector_btn_bg</item>
+        <item name="android:textColor">@color/cgt_selector_tabbar_textcolor</item>
+    </style>
+
+    <style name="cgt_editText">
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingTop">5dip</item>
+        <item name="android:paddingBottom">5dip</item>
+        <item name="android:paddingLeft">5dip</item>
+        <item name="android:paddingRight">5dip</item>
+        <item name="android:background">@drawable/cgt_selector_edit_bg</item>
+        <item name="android:textColor">@color/cgt_selector_tabbar_textcolor</item>
+    </style>
+    
+    <style name="cgt_dialog" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">false</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@color/transparent</item><!--背景透明-->
+        <!--<item name="android:backgroundDimEnabled">false</item>模糊-->
+    </style>
+    
+</resources>

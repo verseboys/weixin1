@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\raw\\emoji.properties",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\raw\\emoji.properties"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\weixin1\\app\\build\\intermediates\\res\\merged\\release\\raw\\weixin.properties",
+        "source": "E:\\AndroidStudioProjects\\weixin1\\app\\src\\main\\res\\raw\\weixin.properties"
+    }
+]
